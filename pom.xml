@@ -73,5 +73,7 @@
             <version>2.34</version> <!-- Use the latest version available -->
         </dependency>
     </dependencies>
-
+<properties>
+        <exec.mainClass>org.example.Main</exec.mainClass>
+</properties>
 </project>
